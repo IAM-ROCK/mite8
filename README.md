@@ -107,4 +107,7 @@ This detailed mind map provides an organized overview of the program's structure
 ## FLOWCHART
 ![Flowchart](https://github.com/IAM-ROCK/mite8/assets/120660020/9b248258-cece-4059-bd0f-346311f7b0b4)
 
+## MINDMAP
+![Mind Map](https://github.com/IAM-ROCK/mite8/assets/120660020/f7e7758c-c6a1-4fb7-8284-8ed65cdab45e)
+
 
