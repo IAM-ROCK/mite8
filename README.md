@@ -105,5 +105,6 @@ Creating a detailed mind map for your C program will help visualize its structur
 This detailed mind map provides an organized overview of the program's structure and functionality.
 
 ## FLOWCHART
+![Flowchart](https://github.com/IAM-ROCK/mite8/assets/120660020/9b248258-cece-4059-bd0f-346311f7b0b4)
 
 
