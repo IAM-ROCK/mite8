@@ -1,4 +1,4 @@
-#EXPLANATION:
+# EXPLANATION:
 Creating a detailed mind map for your C program will help visualize its structure and flow. Below is a step-by-step breakdown of the program's components and their relationships:
 
 *Main Function (`main`)*
@@ -103,4 +103,7 @@ Creating a detailed mind map for your C program will help visualize its structur
 - Display an error message for incorrect credentials.
 
 This detailed mind map provides an organized overview of the program's structure and functionality.
+
+## FLOWCHART
+
 
